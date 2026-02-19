@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudharsan0055
+- 👋 Hi, I’m @Sudhar
 - 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning DSA by Kunal Kushwaha and Web Development.
 - 💞️ I’m looking to collaborate on Development and DevOps which i learned.
